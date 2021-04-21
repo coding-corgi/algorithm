@@ -1,0 +1,28 @@
+
+알고리즘의 성능을 수학적 으로 표현 시간 공간 
+데이터 사용자 증가율에 따른 알로 알고리즘의 성능을 예측
+
+O(1) 언제나 일정한 시간이 걸리는 알고리즘
+<img width="360" alt="n(1)" src="https://user-images.githubusercontent.com/79286508/115530249-8f88c500-a2ce-11eb-9c25-27cffdc3ae87.PNG">
+
+O(N) n에 증가 됨에 따라 시간도 증가
+<img width="344" alt="o n" src="https://user-images.githubusercontent.com/79286508/115530485-c52dae00-a2ce-11eb-8939-dc5d7d807ef3.PNG">
+
+O(n^2)
+<img width="322" alt="o(n^2)" src="https://user-images.githubusercontent.com/79286508/115530687-f60de300-a2ce-11eb-9553-43f55163ef8f.PNG">
+<img width="301" alt="(n^2" src="https://user-images.githubusercontent.com/79286508/115530759-07ef8600-a2cf-11eb-89c0-fc32cd6e1fd3.PNG">
+
+
+o(nm)
+
+
+o(n^3)
+
+O(2^n) 피보나치 fibonacci
+
+O(M^n
+
+O(log n)  binary search 2진 검색 (검색할떄마다 절반씩 떨어지는거
+O(Sqrt(n))
+
+O(2n) = > O(n)
